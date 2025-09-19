@@ -1,7 +1,7 @@
 # Learn Python for Data Science – With Ali Ghadimi
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ali-ghadimi/python-for-data-science/blob/main/notebooks/01_intro_to_python.ipynb)
+https://colab.research.google.com/github/ali-ghadimi/python-for-data-science/blob/main/)
 
 
 Welcome to this free, beginner-friendly repository for learning Python, focused on data science applications.
